@@ -1,0 +1,247 @@
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: #FFF6ED;
+}
+body{
+    background-color: #FFF6ED;
+    text-align:justify;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+h1{
+    background-color: #d8d6bb;
+    text-align:justify;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+li{
+    color: #ea5e00;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.ceviche{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px; 
+}
+.choro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.chilcano{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.causa{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.precio1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.precio2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.precio3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.precio4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.arroz_marisco{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.chaufa_marisco{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.parihuela{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.sudado_pescado{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.jalea_mixta{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.chicharron_pota{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.corvina_frita{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.corvina_macho{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.precio5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.precio6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.precio7{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.precio8{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.precio9{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.precio10{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.precio11{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.precio12{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.trio_marino{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.precio13{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.chicha{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.maracuya{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.cebada{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.cerveza{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.gaseosa{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.pisco{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.vino{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.precio14{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.precio15{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.precio16{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.precio17{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.precio18{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.precio19{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.precio20{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+article{
+    color: #2A7A4B;
+    font-family: Arial, Helvetica, sans-serif;
+}

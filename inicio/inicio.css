@@ -1,0 +1,68 @@
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: #ffffff;
+}
+body{
+    background-color: #FFF6ED;
+}
+.bienvenida{
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #261FEB;
+}
+.imagen{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    color: #00A1F5;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.enlaces{
+    color: #00A1F5;
+}
+
+header{
+    text-align:justify;
+    font-family:Arial, Helvetica, sans-serif
+}
+.descripcion{
+    color: #2A7A4B;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul{
+    list-style-type: none;
+}
+nav li a{
+text-decoration: none;
+color: #fff;
+background-color: #36ABD9;
+padding: 10px 15px;
+display: block;
+border-radius: 10px;
+}
+.principal{
+float: left;
+}
+nav{
+width: 430px;
+height: 10px;
+margin: auto;
+}
+nav li a:hover{
+background-color: #D9D8D7;
+}
+nav li ul{
+position: absolute;
+min-width: 140px;
+display: none;
+}
+nav li:hover >ul{
+display: block;
+}

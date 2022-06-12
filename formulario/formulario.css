@@ -1,0 +1,152 @@
+body{
+    background-color: #FAEFC5;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 10px;
+    border: 2px solid #9b9b9b;
+    width: 53.5%;
+    margin-left: 25%;
+    border-radius: 10px;
+    background-color: #FFF5F5F5;
+}
+
+article{
+    font-size: 18px;
+}
+
+.pedido{
+    margin-top: 15px;
+    margin-left: 25%;
+    justify-content: center;
+    width: 50%;
+    border: 2px solid #9b9b9b;
+    padding: 25px;
+    border-radius: 10px;
+    background-color: #FFF5F5F5;
+}
+
+span{
+    color: red;
+}
+
+.correo{
+    margin-top: 15px;
+    margin-left: 25%;
+    justify-content: center;
+    width: 50%;
+    border: 2px solid #9b9b9b;
+    padding: 25px;
+    border-radius: 10px;
+    background-color: #FFF5F5F5;
+}
+
+.entrada{
+    margin-top: 15px;
+    margin-left: 25%;
+    justify-content: center;
+    width: 50%;
+    border: 2px solid #9b9b9b;
+    padding: 25px;
+    border-radius: 10px;
+    background-color: #FFF5F5F5;
+}
+
+.plato_carta{
+    margin-top: 15px;
+    margin-left: 25%;
+    justify-content: center;
+    width: 50%;
+    border: 2px solid #9b9b9b;
+    padding: 25px;
+    border-radius: 10px;
+    background-color: #FFF5F5F5;
+}
+
+.combo{
+    margin-top: 15px;
+    margin-left: 25%;
+    justify-content: center;
+    width: 50%;
+    border: 2px solid #9b9b9b;
+    padding: 25px;
+    border-radius: 10px;
+    background-color: #FFF5F5F5;
+}
+
+.bebida{
+    margin-top: 15px;
+    margin-left: 25%;
+    justify-content: center;
+    width: 50%;
+    border: 2px solid #9b9b9b;
+    padding: 25px;
+    border-radius: 10px;
+    background-color: #FFF5F5F5;
+}
+
+.pago{
+    margin-top: 15px;
+    margin-left: 25%;
+    justify-content: center;
+    width: 50%;
+    border: 2px solid #9b9b9b;
+    padding: 25px;
+    border-radius: 10px;
+    background-color: #FFF5F5F5;
+}
+
+.num_cuen{
+    margin-top: 15px;
+    margin-left: 25%;
+    justify-content: center;
+    width: 50%;
+    border: 2px solid #9b9b9b;
+    padding: 25px;
+    border-radius: 10px;
+    background-color: #FFF5F5F5;
+}
+
+.lugar{
+    margin-top: 15px;
+    margin-left: 25%;
+    justify-content: center;
+    width: 50%;
+    border: 2px solid #9b9b9b;
+    padding: 25px;
+    border-radius: 10px;
+    background-color: #FFF5F5F5;
+}
+
+.nombre_fam{
+    margin-top: 15px;
+    margin-left: 25%;
+    justify-content: center;
+    width: 50%;
+    border: 2px solid #9b9b9b;
+    padding: 25px;
+    border-radius: 10px;
+    background-color: #FFF5F5F5;
+}
+
+.correo input{
+    width: 40%;
+    background-color: #FFF5F5F5;
+}
+
+::placeholder{
+    font-size: 15px;
+}
+
+button{
+    background-color: brown;
+    color: white;
+    width: 8%;
+    margin-left: 25%;
+    font-size: 20px;
+    border-radius: 10px;
+}

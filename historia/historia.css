@@ -1,0 +1,16 @@
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: #FFF6ED;
+}
+body{
+    background-color: #FFF6ED;
+}
+
+h3{
+    text-align:justify;
+    color:#2A7A4B;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
